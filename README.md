@@ -143,8 +143,6 @@ The project focuses on **real-world fleet operations**, **status-based automatio
 
 ---
 
-## 🏆 Hackathon Pitch (One-Liner)
-
 > **FleetFlow is an ERP-style fleet management platform that automates vehicle availability, driver compliance, trip dispatching, and operational analytics in real time.**
 
 ---
